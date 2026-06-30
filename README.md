@@ -97,37 +97,37 @@ Summarizes key findings and recommendations to support business decision-making.
 ## 📷 Dashboard Preview
 
 ### 📊 Sales Overview
-![Sales Overview](Dashboard%20Screenshots/Sales%20Overview.png)
+![Sales Overview](Dashboard%20Screenshots/Page%201.png)
 
 ---
 
 ### 💰 Revenue Details
-![Revenue Details](Dashboard%20Screenshots/Revenue%20Details.png)
+![Revenue Details](Dashboard%20Screenshots/Page%202.png)
 
 ---
 
 ### 📦 Units Details
-![Units Details](Dashboard%20Screenshots/Units%20Details.png)
+![Units Details](Dashboard%20Screenshots/Page%203.png)
 
 ---
 
 ### 🛒 Orders Details
-![Orders Details](Dashboard%20Screenshots/Orders%20Details.png)
+![Orders Details](Dashboard%20Screenshots/Page%204.png)
 
 ---
 
 ### ❌ Cancellation Details
-![Cancellation Details](Dashboard%20Screenshots/Cancellation%20Details.png)
+![Cancellation Details](Dashboard%20Screenshots/Page%205.png)
 
 ---
 
 ### 🔮 Predictive Analysis
-![Predictive Analysis](Dashboard%20Screenshots/Predictive%20Analysis.png)
+![Predictive Analysis](Dashboard%20Screenshots/Page%206.png)
 
 ---
 
 ### 💡 Key Business Insights & Recommendations
-![Key Business Insights](Dashboard%20Screenshots/Key%20Business%20Insights%20and%20Recommendations.png)
+![Key Business Insights](Dashboard%20Screenshots/Page%207.png)
 
 ---
 
